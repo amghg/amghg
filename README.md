@@ -1,7 +1,6 @@
 <h1 align=center><strong>Hello world!</strong></h1>
 <p align=center>ha! Classic🔮</p>
-<p>Hi
-first, my name is amirmahdi
+<p>Hi, my name is amirmahdi
 and im here to learn and experience!
 code, programing, IT, network, hardware and much more is like hobby for me, kind of having some fun!
 so let see what i could create out of it!
