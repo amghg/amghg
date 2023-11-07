@@ -12,3 +12,4 @@ for now the only thing that help me to introduction my self more then that, are 
 <p>Actually my very first github account is <a href="https://github.com/sinaxvo1">github.com/sinaxvo1</a>
 but since its full of forks, i just fork my favorite repositories there.
 </p>
+<p>feel free to send me email!</p>
