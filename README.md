@@ -1,5 +1,6 @@
 <h1 align=center><strong>Hello world!</strong></h1>
 <p align=center>ha! Classic🔮</p>
+<img src="https://raw.githubusercontent.com/amghjg/amghjg/main/g.webp" align=center>
 <p>Hi, my name is amirmahdi
 and im here to learn and experience!
 code, programing, IT, network, hardware and much more is like hobby for me, kind of having some fun!
