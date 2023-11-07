@@ -1,1 +1,2 @@
-<h1 align=center>Hello world! </h1>
+<h1 align=center><strong>Hello world!</strong></h1>
+<p align=center>ha! Classic🔮</p>
