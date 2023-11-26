@@ -1,6 +1,5 @@
 <h1 align=center><strong>Hello world!</strong></h1>
 <p align=center>ha! Classic🔮</p>
-![gif](https://raw.githubusercontent.com/amghjg/amghjg/577b7fee68c1a6bd7e9d53c20326197850b239f1/1701005999993.gif)
 <img src="https://raw.githubusercontent.com/amghjg/amghjg/main/g.webp" align=center>
 <p>Hi, my name is amirmahdi
 and im here to learn and experience!
