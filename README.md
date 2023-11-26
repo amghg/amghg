@@ -2,7 +2,7 @@
 <p align=center>ha! Classic🔮</p>
 <img src="https://github.com/amghjg/amghjg/assets/143709741/1dfc6b17-8c4f-42b4-8870-5c39376e0df8" align=right><img src="https://github.com/amghjg/amghjg/assets/143709741/1dfc6b17-8c4f-42b4-8870-5c39376e0df8" align=left>
 <img src="https://raw.githubusercontent.com/amghjg/amghjg/main/g.webp" align=center>
-<img src="https://github.com/amghjg/amghjg/assets/143709741/1dfc6b17-8c4f-42b4-8870-5c39376e0df8" align=center>
+
 
 <p>Hi, my name is amirmahdi
 and im here to learn and experience!
