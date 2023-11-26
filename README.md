@@ -3,7 +3,7 @@
 <img src="https://github.com/amghjg/amghjg/assets/143709741/1dfc6b17-8c4f-42b4-8870-5c39376e0df8" align=right><img src="https://github.com/amghjg/amghjg/assets/143709741/1dfc6b17-8c4f-42b4-8870-5c39376e0df8" align=left>
 <img src="https://raw.githubusercontent.com/amghjg/amghjg/main/g.webp" align=center>
 <img src="https://github.com/amghjg/amghjg/assets/143709741/1dfc6b17-8c4f-42b4-8870-5c39376e0df8" align=right><img src="https://github.com/amghjg/amghjg/assets/143709741/1dfc6b17-8c4f-42b4-8870-5c39376e0df8" align=left>
-
+<p><p/>
 <p>Hi, my name is amirmahdi
 and im here to learn and experience!
 code, programing, IT, network, hardware and much more is like hobby for me, kind of having some fun!
