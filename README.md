@@ -6,7 +6,7 @@
 
 <p>Hi, my name is amirmahdi
 and im here to learn and experience!
-code, programing, IT, network, hardware and much more is like hobby for me, kind of having some fun!
+code, programing, IT, network, hardware and etc is like hobby for me, kind of having some fun!
 so let see what i could create out of it!
 
 for now the only thing that help me to introduction my self more then that, are some cool badges!
